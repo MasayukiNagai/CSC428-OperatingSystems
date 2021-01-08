@@ -15,7 +15,7 @@ $ java MLFQ
 * Rule 1: If Priority(A) > Priority(B), A runs (B doesn’t)
 * Rule 2: If Priority(A) = Priority(B), A & B run in RR.
 
-<img src="/Users/moon/DePauw/Courses/CSC428 Operating Systems/CSC428-OperatingSystems/Project 1/MLFQ_example.png" alt="MLFQ_example" style="zoom:70%;" />
+<img src="https://github.com/MasayukiNagai/CSC428-OperatingSystems/blob/main/Project1/MLFQ_example.png" alt="MLFQ_example" style="zoom:70%;" />
 [*Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 ## Output 
