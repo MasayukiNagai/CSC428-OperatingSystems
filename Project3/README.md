@@ -10,11 +10,11 @@ $ java PiEstimator
 
 ## How
 
-<img src="https://github.com/MasayukiNagai/CSC428-OperatingSystems/blob/main/Project2/Figure.png" alt="MLFQ_example" style="zoom:100%;" />
+<img src="https://github.com/MasayukiNagai/CSC428-OperatingSystems/blob/main/Project3/Figure.png" alt="MLFQ_example" style="zoom:100%;" />
 
 Randomly throw darts at the dashboard above, assuming that the darts will all land on the square and that they are evenly distriubted across the square as well. Then, we get the following:
 
-<img src="https://github.com/MasayukiNagai/CSC428-OperatingSystems/blob/main/Project2/PiCalculation.png" alt="MLFQ_example" style="zoom:70%;" />
+<img src="https://github.com/MasayukiNagai/CSC428-OperatingSystems/blob/main/Project3/PiCalculation.png" alt="MLFQ_example" style="zoom:70%;" />
 
 ## Input
 
